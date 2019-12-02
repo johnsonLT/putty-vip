@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="putty_icon">res/putty-icon.png</file>
+    </qresource>
+</RCC>
